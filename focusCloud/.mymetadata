@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="FocusCloud"
+  id="myeclipse.1456712321950"
+  context-root="/FocusCloud"
+  j2ee-spec="5.0"
+  archive="FocusCloud.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
